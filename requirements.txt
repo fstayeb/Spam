@@ -1,7 +1,8 @@
-pkg install python-psutil
+requests
+rich
 google-api-python-client
 google-auth
 google-auth-httplib2
 google-auth-oauthlib
-requests
-protobuf_decodergoogle-api-python-clientgle-api-python-clientle-api-python-client
+PyJWT
+cfonts
