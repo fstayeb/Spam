@@ -1,0 +1,10 @@
+python-psutil
+protobuf
+protobuf-decoder
+psutil
+pycryptodome
+pyjwt
+python-cfonts
+requests
+rich
+urllib3
